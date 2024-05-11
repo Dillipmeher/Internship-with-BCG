@@ -12,3 +12,6 @@ BCG Data Science Job Simulation on Forage - May 2024
    achieving an 85% accuracy rate in predicting customer churn.
  * Completed a concise executive summary for the Associate Director, delivering
    actionable insights for informed decision-making based on the analysis.
+
+
+![image](https://github.com/Dillipmeher/Internship-with-BCG/assets/143451788/739c7e10-634c-4d11-966c-32399c43689f)
